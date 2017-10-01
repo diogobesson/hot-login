@@ -1,8 +1,8 @@
 ﻿=== Hot Login ===
 Contributors: Anderson.Makiyama
 Tags: hotmart, hotconnect, hotmembers
-Requires at least: 3.0
-Tested up to: 4.2.2
+Requires at least: 4.0
+Tested up to: 4.5.3
 Stable tag: trunk
 
 Integre seu site Wordpress com o Hotmart, libere e bloqueie acesso de forma automatica conforme o status da compra
@@ -17,7 +17,7 @@ O Plugin insere o usuário no seu banco de dados do WP, mas bloqueia o login via
 
 Você ainda estará habilitado a cadastrar usuários manualmente através do painel do WP, e estes usuários farão login normal. 
 
-Veja detalhes completos de como usar o [Plugin Hotmart Login](http://ganhardinheiroblog.net/plugin-hotmart-login) 
+Veja detalhes completos de como usar o [Plugin Hotlogin](http://plugin-wp.net/hot-login) 
 
 
 **Recursos**
@@ -32,11 +32,7 @@ Veja detalhes completos de como usar o [Plugin Hotmart Login](http://ganhardinhe
 
 * Exibe um relatório dos últimos mil login feitos via Hotmart.
 
-**Sobre**
 
-O Plugin foi desenvolvido por Anderson Makiyama do [Como Ganhar Dinheiro na Internet](http://ganhardinheiroblog.net)
-
- 
 
 == Installation ==
 
@@ -59,7 +55,7 @@ You should have received a copy of the GNU General Public License along with Pub
 == Frequently Asked Questions ==
 
 = Posso sugerir ideias para esse plugin? =
-Sim, claro. É só deixar um comentário em [Plugin Hotmart Login](http://ganhardinheiroblog.net/plugin-hotmart-login)
+Sim, claro. É só deixar um comentário em [Plugin Hot Login](http://plugin-wp.net/hot-login)
 
 == Screenshots ==
 1. Página de Opções do Plugin
@@ -75,3 +71,9 @@ Sim, claro. É só deixar um comentário em [Plugin Hotmart Login](http://ganhar
 
 = 1.2 =
 * Corrigi alguns erros
+
+= 3.0 =
+* Versão Plus Liberada, contendo diversos novos recursos
+
+= 3.1 =
+* Corrigido um pequeno bug
